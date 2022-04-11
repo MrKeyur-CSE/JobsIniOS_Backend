@@ -1,0 +1,11 @@
+# add your python virtual env here, (don't push python env to git)
+/venv
+
+# cache files
+**/__pycache__/
+
+# migrations
+/jobproject/userauth/migrations
+
+#database
+db.sqlite3
